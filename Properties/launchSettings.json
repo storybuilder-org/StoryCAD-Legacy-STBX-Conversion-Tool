@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LegacySTBXConverter (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LegacySTBXConverter (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
